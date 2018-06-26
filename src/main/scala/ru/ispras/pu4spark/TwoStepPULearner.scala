@@ -18,7 +18,7 @@ package ru.ispras.pu4spark
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.{ProbabilisticClassificationModel, ProbabilisticClassifier}
 import org.apache.spark.ml.feature.{StringIndexer, VectorIndexer}
-import org.apache.spark.mllib.linalg.Vector
+import org.apache.spark.ml.linalg.Vector
 import org.apache.spark.sql.DataFrame
 import org.apache.spark.sql.functions._
 

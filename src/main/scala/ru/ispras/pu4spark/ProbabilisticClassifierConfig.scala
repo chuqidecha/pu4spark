@@ -16,7 +16,7 @@
 package ru.ispras.pu4spark
 
 import org.apache.spark.ml.classification._
-import org.apache.spark.mllib.linalg.Vector
+import org.apache.spark.ml.linalg.Vector
 
 /**
   * @author Nikita Astrakhantsev (astrakhantsev@ispras.ru)

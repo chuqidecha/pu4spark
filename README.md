@@ -14,7 +14,7 @@ In ICML 2002, Proceedings of the nineteenth international conference on machine 
 Modified Positive-Unlabeled learning algorithm;
 main idea is to gradually refine set of positive examples.
 Pseudocode was taken from:
->Fusilier, D. H., Montes-y-Gómez, M., Rosso, P., & Cabrera, R. G. (2015).
+> Fusilier, D. H., Montes-y-Gómez, M., Rosso, P., & Cabrera, R. G. (2015).
 Detecting positive and negative deceptive opinions using PU-learning.
 Information Processing & Management, 51(4), 433-443.
 
